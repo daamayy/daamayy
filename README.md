@@ -15,24 +15,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ### Projects
 
-**📈 ML Revenue Forecasting**  
-Out-of-sample quarterly revenue forecasting. ML vs. ARIMA/ETS vs. analyst
-consensus, with leakage control, Diebold–Mariano testing, and a long-short
-portfolio test.  
-→ [Link](https://github.com/daamayy/ml-revenue-forecasting-finance)
+**📈 ML Revenue Forecasting**<br>
+Out-of-sample quarterly revenue forecasting: ML vs. ARIMA/ETS vs. analyst consensus,
+with leakage control, and a long-short portfolio test.<br>
+→ [repo](https://github.com/daamayy/ml-revenue-forecasting-finance)
 
-**🇩🇪 German Learning Agent using YouTube content**  
-LLM pipeline that turns German video content into structured, reviewable
-study material. Built to solve my own learning problem.  
-→ [Link](https://github.com/daamayy/German-Learning-Agent)
+**🚙 Traffic Shockwave Forecasting** *(group project)*<br>
+Standard traffic benchmarks report one aggregate error and hide performance where it matters:
+event egress, bad weather, congestion shockwaves. We condition the STGCN(Yu et al., IJCAI 2018) on weather and event
+signals and evaluate it inside exogenously-defined anomalous windows.<br>
+→ [team repo](https://github.com/uwkng/traffic_shockwave_forecasting)
 
-**🚙 Deep Learning — Traffic Shockwave Forecasting**  
-Standard traffic forecasting benchmarks report a single aggregate error across all timesteps. This hides performance in the conditions that matter most: event egress hours, adverse weather spells, and congestion shockwaves. The contribution of this project is the evaluation protocol, not a new model. We take an off-the-shelf STGCN (Yu et al., IJCAI 2018), condition it on weather and scheduled-event signals, and evaluate it specifically inside exogenously-defined anomalous windows.
-→ [Link](https://github.com/uwkng/traffic_shockwave_forecasting)
+**🇩🇪 German Learning Agent**<br>
+LLM pipeline that turns German YouTube content into structured, reviewable study material
+(grammar, expressions, reusable sentences). Built to solve my own learning problem.<br>
+→ [repo](https://github.com/daamayy/German-Learning-Agent)
 
-**⛅️ Air Quality Forecasting**  
-A data-science case study on daily PM2.5 / PM10 records for 20 African cities (2020-2024, 3 scenarios): from auditing the raw files, through cleaning, to a city-relative early-warning classifier for high-pollution days.
-→ [Link](https://github.com/daamayy/africa_pm25_early_warning)
+**⛅️ Air Quality Early Warning**<br>
+Daily PM2.5/PM10 records for 20 African cities (2020–2024): raw-data audit, cleaning, and a
+city-relative early-warning classifier for high-pollution days.<br>
+→ [repo](https://github.com/daamayy/africa_pm25_early_warning)
+
+
 
