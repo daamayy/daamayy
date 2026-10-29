@@ -1,4 +1,6 @@
-## Hi there 👋
+## Combining tech & business
+
+`Machine Learning` · `Deep Learning` · `Business Forecasting` · `Finance` · `Decision Making` · `GenAI` · `LLM`
 
 <!--
 **daamayy/daamayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
