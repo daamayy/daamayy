@@ -36,8 +36,8 @@ LLM pipeline that turns German YouTube content into structured, reviewable study
 (grammar, expressions, reusable sentences). Built to solve my own learning problem.<br>
 → [repo](https://github.com/daamayy/German-Learning-Agent)
 
-**📩 GTM Agent**<br>
-GTM Agent turns thousands of public tenders into a short list of ranked sales leads, 
+**📩 GTM Agent** *(group project)*<br>
+GTM (Go-to-Market) Agent turns thousands of public tenders into a short list of ranked sales leads, 
 each with an explainable match score and a draft outreach email.<br>
 → [repo](https://github.com/SwarajStha/GTMAgent)
 
