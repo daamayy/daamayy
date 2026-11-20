@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Projects
 
-**📈 ML Revenue Forecasting**<br>
+**📈 Firm Revenue Forecasting using ML**<br>
 Out-of-sample quarterly revenue forecasting: ML vs. ARIMA/ETS vs. analyst consensus,
 with leakage control, and a long-short portfolio test.<br>
 → [repo](https://github.com/daamayy/ml-revenue-forecasting-finance)
