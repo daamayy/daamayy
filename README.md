@@ -39,7 +39,7 @@ LLM pipeline that turns German YouTube content into structured, reviewable study
 **📩 GTM Agent** *(group project)*<br>
 GTM (Go-to-Market) Agent turns thousands of public tenders into a short list of ranked sales leads, 
 each with an explainable match score and a draft outreach email.<br>
-→ [repo](https://github.com/SwarajStha/GTMAgent)
+→ [team repo](https://github.com/SwarajStha/GTMAgent)
 
 **⛅️ Air Quality Early Warning**<br>
 Daily PM2.5/PM10 records for 20 African cities (2020–2024): raw-data audit, cleaning, and a
