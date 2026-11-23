@@ -20,26 +20,26 @@ Here are some ideas to get you started:
 
 ### Projects
 
-**📈 Firm Revenue Forecasting using ML**<br>
-Out-of-sample quarterly revenue forecasting: ML vs. ARIMA/ETS vs. analyst consensus,
-with leakage control, and a long-short portfolio test.<br>
-→ [repo](https://github.com/daamayy/ml-revenue-forecasting-finance)
-
-**🚙 Traffic Shockwave Forecasting** *(group project)*<br>
-Standard traffic benchmarks report one aggregate error and hide performance where it matters:
-event egress, bad weather, congestion shockwaves. We condition the STGCN(Yu et al., IJCAI 2018) on weather and event
-signals and evaluate it inside exogenously-defined anomalous windows.<br>
-→ [team repo](https://github.com/uwkng/traffic_shockwave_forecasting)
+**📩 Go-To-Market Agent** *(Generative AI, group project)*<br>
+GTM Agent turns thousands of public tenders into a short list of ranked sales leads, 
+each with an explainable match score and a draft outreach email.<br>
+→ [team repo](https://github.com/SwarajStha/GTMAgent)
 
 **🇩🇪 German Learning Agent**<br>
 LLM pipeline that turns German YouTube content into structured, reviewable study material
 (grammar, expressions, reusable sentences). Built to solve my own learning problem.<br>
 → [repo](https://github.com/daamayy/German-Learning-Agent)
 
-**📩 GTM Agent** *(group project)*<br>
-GTM (Go-to-Market) Agent turns thousands of public tenders into a short list of ranked sales leads, 
-each with an explainable match score and a draft outreach email.<br>
-→ [team repo](https://github.com/SwarajStha/GTMAgent)
+**📈 Firm Revenue Forecasting using ML**<br>
+Out-of-sample quarterly revenue forecasting: ML vs. ARIMA/ETS vs. analyst consensus,
+with leakage control, and a long-short portfolio test.<br>
+→ [repo](https://github.com/daamayy/ml-revenue-forecasting-finance)
+
+**🚙 Traffic Shockwave Forecasting** *(Deep Learning, group project)*<br>
+Standard traffic benchmarks report one aggregate error and hide performance where it matters:
+event egress, bad weather, congestion shockwaves. We condition the STGCN(Yu et al., IJCAI 2018) on weather and event
+signals and evaluate it inside exogenously-defined anomalous windows.<br>
+→ [team repo](https://github.com/uwkng/traffic_shockwave_forecasting)
 
 **⛅️ Air Quality Early Warning**<br>
 Daily PM2.5/PM10 records for 20 African cities (2020–2024): raw-data audit, cleaning, and a
